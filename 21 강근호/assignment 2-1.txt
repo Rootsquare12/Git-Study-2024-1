@@ -1,1 +1,11 @@
-assignment 2-1
+commit f05b54393d8b6e68438666c712ae730ce73c1d4d (HEAD -> master)
+Author: Rootsquare <3456monster@naver.com>
+Date:   Thu May 9 17:13:07 2024 +0900
+
+    21 Geunho Kang assignment 2-2
+
+commit 3e8ac3efdeb3bff47421a998bad7535792400c1d
+Author: Rootsquare <3456monster@naver.com>
+Date:   Thu May 9 17:09:15 2024 +0900
+
+    21 Geunho Kang assignment 2-1
